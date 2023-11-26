@@ -1,8 +1,8 @@
 {
 	"name": "@rbxts/lootplan",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A updated port with roblox-ts typing of dogwarrior24`s lootplan.",
-	"main": "out/init.lua",
+	"main": "out/init.luau",
 	"keywords": ["roblox", "roblox-ts", "lootplan", "chances", "calculations"],
 	"author": "kineticwallet",
 	"contributors": [
