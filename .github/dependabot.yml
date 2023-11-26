@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    vendor: true
+    schedule:
+      interval: "weekly"
+      time: "06:00"
+      timezone: "Europe/Berlin"
+    reviewers:
+      - "kineticwallet"
