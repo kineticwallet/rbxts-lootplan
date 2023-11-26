@@ -1,10 +1,13 @@
 {
-	"name": "@rbxts/rbxts-package-template",
+	"name": "@rbxts/lootplan",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A updated port with roblox-ts typing of dogwarrior24`s lootplan.",
 	"main": "out/init.lua",
-	"keywords": [],
-	"author": "",
+	"keywords": ["roblox", "roblox-ts", "lootplan", "chances", "calculations"],
+	"author": "kineticwallet",
+	"contributors": [
+		"dogwarrior24"
+	],
 	"license": "ISC",
 	"types": "out/index.d.ts",
 	"files": [
@@ -13,6 +16,15 @@
 	],
 	"publishConfig": {
 		"access": "public"
+	},
+	"readme": "README.md",
+	"bugs": {
+		"url": "https://github.com/kineticwallet/rbxts-lootplan/issues"
+	},
+	"homepage": "https://github.com/kineticwallet/rbxts-lootplan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kineticwallet/rbxts-lootplan"
 	},
 	"devDependencies": {
 		"@rbxts/compiler-types": "2.2.0-types.0",
