@@ -10,7 +10,7 @@ devDependencies:
     version: 2.2.0-types.0
   '@rbxts/types':
     specifier: ^1.0.732
-    version: 1.0.732
+    version: 1.0.736
   '@typescript-eslint/eslint-plugin':
     specifier: ^6.12.0
     version: 6.12.0(@typescript-eslint/parser@6.12.0)(eslint@8.54.0)(typescript@5.2.2)
@@ -152,8 +152,8 @@ packages:
     resolution: {integrity: sha512-ycsIGfp49MypbRi4eEPCXTjbb2iLKL1/2GjRrFLuLJL74fCfVtbAXIo2LiZhPrgqIiBLomb4JN5Rcqv4304bzw==}
     dev: true
 
-  /@rbxts/types@1.0.732:
-    resolution: {integrity: sha512-ZgyxtLx1hRjHwKDn1ysvp9/fGLO9btL+0Dt4NBmUG+tRTEkiFT6lwygweg7TT7AI44tDZLkQ4gv4RMrJiaIvNw==}
+  /@rbxts/types@1.0.736:
+    resolution: {integrity: sha512-IJUpRztNnB7rFUV9G/tffRhTyU6f3PmaxnOrQtuYZfXPZ1D1yYgef5YdJdON7hVZx1ulKP9dAakYofYbSGh2iQ==}
     dev: true
 
   /@roblox-ts/luau-ast@1.0.10:
